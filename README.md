@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About
 
 This repository provides source code and data used in a paper: *Evolution of metamemory based on self-reference to own memory in artificial neural network with neuromodulation*.
@@ -25,3 +26,6 @@ $ python run.py -ia [analyzed_data_path] [number_of_target_network]
 ```
 
 If you want to analyze your experiment data, please use `analysis.ipynb`. When you analyze your experiment's result, you should make an appropriate change to the target path in the notebook file.
+=======
+# outlines-metacognitive-agi-research
+>>>>>>> 544660ce31b768cfd0b01972c8bfc76f194a3a1c
