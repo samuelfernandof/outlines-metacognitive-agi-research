@@ -1,6 +1,6 @@
 # About
 
-This repository provides source code and data used in a paper: *Outlines for an AGI based on a hierarchical network with metamemory and neuromodulation*.
+This repository provides source code and data used in a paper: *https://www.nature.com/articles/s41598-022-10173-4*.
 
 This repository is released under the MIT License, see `LICENSE`.
 
