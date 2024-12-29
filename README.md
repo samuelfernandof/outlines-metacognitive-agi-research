@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # About
 
-This repository provides source code and data used in a paper: *Evolution of metamemory based on self-reference to own memory in artificial neural network with neuromodulation*.
+This repository provides source code and data used in a paper: *Outlines for an AGI based on a hierarchical network with metamemory and neuromodulation*.
 
 This repository is released under the MIT License, see `LICENSE`.
 
